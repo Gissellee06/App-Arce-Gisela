@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "categorie": "sweaters",
+        "title": "Sweater blanco de mujer",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, voluptates ullam earum consequatur optio debitis",
+        "price": 222,
+        "image":""      
+    },
+    {
+        "id": 2,"categorie": "sweaters",
+        "title": "Abrigadísimo",
+        "description": "Otro sweater para este invierno... commodi numquam dolor labore aliquam tempora eius laudantium quam quaerat quo veniam blanditiis animi. Excepturi",
+        "price": 333,
+        "image":""
+      
+    },
+
+    {
+        "id": 3,
+        "categorie": "sweaters",
+        "title": "Sweater para la noche",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, voluptates ullam earum consequatur",
+        "price": 555,
+        "image":""
+      
+    },
+    {
+        "id": 4,
+        "categorie": "calzado",
+        "title": "Botas de cuero",
+        "description": "Impedit, voluptates ullam earum consequatur optio debitis. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 5000,
+        "image":""
+       
+    },
+    {
+        "id": 5,
+        "categorie": "calzado",
+        "title": "Zapatos ideales de día",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, voluptates ullam earum consequatur",
+        "price": 5000,
+        "image":""
+      
+    },
+    {
+        "id": 6,
+        "categorie": "accesorios",
+        "title": "Bufandas",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, voluptates ullam earum consequatur",
+        "price": 2000,
+        "image":""
+      
+    },
+    {
+        "id": 7,
+        "categorie": "accesorios",
+        "title": "Guantes",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, voluptates ullam earum consequatur",
+        "price": 1000,
+        "image":""
+      
+    }
+]
+

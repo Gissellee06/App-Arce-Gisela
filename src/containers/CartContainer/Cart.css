@@ -1,0 +1,61 @@
+
+.container{
+    padding: 4em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.show-products{
+   
+    border: 0.2em solid #ba135e95;
+    margin: 0.6em;
+    border-radius: 4px;
+    text-align: center;
+
+}
+.show-products img{
+    text-align: center;
+    border-radius: 6px;
+    border: solid #8785a2 1px;
+}
+.items-bougth{
+    display: flex;
+    justify-content: center;
+    color: #ba135e95;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.4em;
+    align-items: center;
+}
+.form-buyer{
+    display: flex;
+    flex-direction: column;
+    height: 24em;
+    width: 24em;
+    border: 0.3em solid #8785a2;
+    border-radius: 0.4em;
+    padding: 2em;
+    margin: 2.4em;
+   
+}    
+.form-buyer__input{
+    padding:  0.8em;
+    margin-bottom: 1.3em;
+    font-size: 1em;
+}
+
+.button-cart{
+    color: floralwhite;
+    background-color: rgba(63, 162, 159, 0.878);
+    font-size: 18px;
+    border-radius: 6px;
+    padding: 6px;
+
+}
+
+.button-clear{
+    border: 0.6em solid rgba(228, 142, 66, 0.94); 
+    padding: 1em;
+    text-decoration: none;
+}
