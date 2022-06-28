@@ -1,7 +1,8 @@
 import React, { useState }  from 'react';
 // import { Link } from "react-router-dom";
 import db from '../../firebase/index';
-import firebase from 'firebase/app';
+import firebase from 'firebase';
+
 import 'firebase/firestore';
 import './Contact.css';
 import Swal from 'sweetalert2';
